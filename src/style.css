@@ -32,6 +32,8 @@ body {
   margin: 0 auto;
 }
 
+#header:hover,
+#footer:hover,
 .important:hover,
 .interesting:hover,
 .surprising:hover {
